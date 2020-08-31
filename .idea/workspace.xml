@@ -1,12 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="301e72c3-6756-4b43-9698-1d4debcbe27e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiaNicka/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/TiaNicka/settings.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TiaNicka/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/TiaNicka/urls.py" afterDir="false" />
-    </list>
+    <list default="true" id="301e72c3-6756-4b43-9698-1d4debcbe27e" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,7 +160,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1598881369377</updated>
-      <workItem from="1598881370691" duration="12889000" />
+      <workItem from="1598881370691" duration="13633000" />
     </task>
     <servers />
   </component>
@@ -196,7 +191,7 @@
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/TiaNicka$Migrate.coverage" NAME="Migrate Coverage Results" MODIFIED="1598887598280" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
-    <SUITE FILE_PATH="coverage/TiaNicka$Rodar_Servidor.coverage" NAME="Rodar Servidor Coverage Results" MODIFIED="1598901994114" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/TiaNicka$Rodar_Servidor.coverage" NAME="Rodar Servidor Coverage Results" MODIFIED="1598906953823" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/TiaNicka$Migrations.coverage" NAME="Migrations Coverage Results" MODIFIED="1598887594060" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
   </component>
 </project>
