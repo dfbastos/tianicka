@@ -38,10 +38,10 @@ class Core(View):
             msgEstrelinhas = None
 
         #Consulta as turmas cadastradas
-        turmas = Turmas.objects.all()
+        turmas = Turmas.objects.all().order_by('turma')
 
         #Consulta os alunos cadastrados
-        alunos = Alunos.objects.all()
+        alunos = Alunos.objects.all().order_by('nome')
 
         #Consulta todas as estrelinhas
         estrelas = Estrelas.objects.all()
